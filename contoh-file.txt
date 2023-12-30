@@ -1,4 +1,6 @@
 tes ini adalah file saya latihan menggunakan github. Apakah sudsah bagus? sudaha lancar? bismillah
 oke acc
 -revisi tulisan
--tambahkan warna agar lebih menarik
+-ubah warna ke sage
+-tambahkan favicon
+-tambahkan img logo
