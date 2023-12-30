@@ -3,4 +3,4 @@ oke acc
 -revisi tulisan
 -tambahkan warna agar lebih menarik
 -tambahkan favicon
--ganti warna ke beige
+-ganti warna ke pink
